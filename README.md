@@ -3,4 +3,6 @@
 
 ##游戏介绍
 《加减大师》是一款微信小游戏，玩家在指定时间内判断等式的对错，答对越多得分越多，每周得分的前500名可以兑换娃娃等礼品。
-![Image text](WechatGameAutoClick/img/example1.png)
+<img width="150" height="250" src="https://github.com/tiantianwahaha/WechatGameAutoClick/raw/master/img/example1.png"/>
+<img width="150" height="250" src="https://github.com/tiantianwahaha/WechatGameAutoClick/raw/master/img/example2.png"/>
+<img width="150" height="250" src="https://github.com/tiantianwahaha/WechatGameAutoClick/raw/master/img/example3.png"/>
