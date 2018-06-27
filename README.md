@@ -27,7 +27,7 @@ pip install watchdog
 ```
 
 3. [安装配置Charles](https://github.com/tiantianwahaha/WechatGameAutoClick/wiki/Charles%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
-4. [配置ADB]()
+4. [配置ADB](https://github.com/tiantianwahaha/WechatGameAutoClick/wiki/ADB%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B)
 5. 运行程序
 ```
 python get_answer.py
