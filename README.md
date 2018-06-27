@@ -16,19 +16,19 @@
 
 ## 使用方法
 
-* 下载代码到本地
+1. 下载代码到本地
 ```
 git clone https://github.com/tiantianwahaha/WechatGameAutoClick.git
 ```
-* 安装所需要的包
+2. 安装所需要的包
 **用于监控抓包获得的数据的变化情况**
 ```
 pip install watchdog
 ```
 
-* [安装配置Charles](https://github.com/tiantianwahaha/WechatGameAutoClick/wiki/Charles%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
-* [配置ADB]()
-* 运行程序
+3. [安装配置Charles](https://github.com/tiantianwahaha/WechatGameAutoClick/wiki/Charles%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
+4. [配置ADB]()
+5. 运行程序
 ```
 python get_answer.py
 ```
