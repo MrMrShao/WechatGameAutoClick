@@ -26,8 +26,8 @@ git clone https://github.com/tiantianwahaha/WechatGameAutoClick.git
 pip install watchdog
 ```
 
-* 安装配置Charles
-* 配置ADB
+* [安装配置Charles](https://github.com/tiantianwahaha/WechatGameAutoClick/wiki/Charles%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
+* [配置ADB]()
 * 运行程序
 ```
 python get_answer.py
