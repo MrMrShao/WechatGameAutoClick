@@ -18,26 +18,26 @@
 
 ## 使用方法
 
-1. 下载代码到本地
+1. **下载代码到本地**
 ```
 git clone https://github.com/tiantianwahaha/WechatGameAutoClick.git
 ```
-2. 安装所需要的包<br>
-**用于监控抓包获得的数据的变化情况**
+2. **安装所需要的包**<br>
+用于监控抓包获得的数据的变化情况
 ```
 pip install watchdog
 ```
 
-3. [安装配置Charles](https://github.com/tiantianwahaha/WechatGameAutoClick/wiki/Charles%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
-4. [配置ADB](https://github.com/tiantianwahaha/WechatGameAutoClick/wiki/ADB%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B)
-5. 运行程序
+3. **安装配置Charles**<br>
+[详细教程](https://github.com/tiantianwahaha/WechatGameAutoClick/wiki/Charles%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
+4. **配置ADB**<br>
+[详细教程](https://github.com/tiantianwahaha/WechatGameAutoClick/wiki/ADB%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B)
+5. **运行程序**<br>
+**(1)我的手机为小米6，屏幕尺寸为1920*1080，所以我的手机对号和错号的中心位置坐标分别为(270,1650),(810,1650)。如果屏幕尺寸不一致，请把程序的9-15行修改为合适的坐标。**<br>
+**(2)记得把56行和63行改为你自己设置的Charles抓包存储路径(注意一个是文件路径，一个是文件所在的文件夹的路径)**
 ```
 python get_answer.py
 ```
-**注意**<br>
-**(1)我的手机为小米6，屏幕尺寸为1920*1080，所以我的手机对号和错号的中心位置坐标分别为(270,1650),(810,1650)。如果屏幕尺寸不一致，请把程序的9-15行修改为合适的大小。**<br>
-**(2)记得把56行和63行改为你自己设置的Charles抓包存储路径**
-
 
 ## 需要注意的问题
 * 每次抓包可以得到40道题的答案，每40道题答题，答题时间就会减少(5s,4s,3s,2s,1s,0.7s)，最低为0.7。<br>
