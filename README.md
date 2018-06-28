@@ -13,8 +13,7 @@
 不同于其他的截图识别题目然后模拟点击的脚本，本程序通过Charles软件抓包获得题目和答案，通过ADB模拟点击，60行代码就基本搞定，更加简单明了。
 
 ## 效果展示
-![]()
-![]()
+![](https://github.com/tiantianwahaha/WechatGameAutoClick/raw/master/img/autoclick.gif)
 
 ## 使用方法
 
